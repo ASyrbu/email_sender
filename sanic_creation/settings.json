@@ -1,0 +1,27 @@
+{
+  "extensions": ["docx", "doc", "pdf"],
+  "filesize_max": 10.0,
+  "smtp":{
+    "email": "syrbualexandr@gmail.com",
+    "server": "smtp.gmail.com",
+    "port": 587
+	},
+  "credentials": {
+    "email_id": "syrbualexandr@gmail.com",
+    "password": "qcrjzayixvtatzuj"
+  },
+  "endpoints": {
+    "intership":{
+      "from": "syrbualexandr@gmail.com",
+      "to": "syrbualexandr@gmail.com"
+    },
+    "contact_us": {
+      "from": "syrbualexandr@gmail.com",
+      "to": "syrbualexandr@gmail.com"
+    },
+    "apply_job": {
+      "from": "syrbualexandr@gmail.com",
+      "to": "syrbualexandr@gmail.com"
+    }
+  }
+}
